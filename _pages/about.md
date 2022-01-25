@@ -9,7 +9,7 @@ redirect_from:
   - /home/
 ---
 
-Hello, I am Himarsha R. Jayanetti. I joined the Old Dominion University as a Master’s student in Fall 2019 under the supervision of [Dr. Michele Weigle](https://weiglemc.github.io/). I have transferred to the Ph.D. program under the same advisor in Fall 2020. My research interests are in web archiving, digital preservation, and social media. I am a part of the Web Science and Digital Libraries Research Group as a research assistant.
+<div style="text-align: justify"> Hello, I am Himarsha R. Jayanetti. I joined the Old Dominion University as a Master’s student in Fall 2019 under the supervision of [Dr. Michele Weigle](https://weiglemc.github.io/). I have transferred to the Ph.D. program under the same advisor in Fall 2020. My research interests are in web archiving, digital preservation, and social media. I am a part of the Web Science and Digital Libraries Research Group as a research assistant.</div>
 
 <a href="https://oduwsdl.github.io/" target="_blank" class="btn btn--mcw"><i class="fas fa-fw fa-link"></i><span> WS-DL Webpage</span></a>
 <a href="https://twitter.com/WebSciDL" target="_blank" class="btn btn--mcw"><i class="fab fa-twitter" style="color: {{ page.twitter-color }}"></i><span> WS-DL Twitter</span></a>
