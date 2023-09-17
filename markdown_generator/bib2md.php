@@ -25,7 +25,7 @@
     $common_preamble = "collection: 'publications'\ndoi-color: '#fcab22'\nacrobat-color: '#f70e0c'\nblogger-color: '#F37100'\n";
 
     // generate one file per year of publications
-    $years = range("2019", "2022");
+    $years = range("2019", "2023");
     foreach ($years as $year) {
         if ($year == "2019" || $year == "2020") continue;  // Himarsha: I DIDN'T HAVE PUBS THESE YEARS
         $outfile = $year . ".md";
